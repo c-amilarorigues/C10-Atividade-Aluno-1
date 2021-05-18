@@ -1,4 +1,4 @@
-//c10 Student Activity
+//Atividade do Aluno C10
 
 var s1,s2,s3,s4;
 var sprites =[]
